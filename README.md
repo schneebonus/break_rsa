@@ -20,6 +20,10 @@ Break weak rsa public keys by brute forcing common key problems (p or q too low,
 - Might explode when using on big keys
 - Might explode for other reasons too
 
+Since this tool does not completely cover the basic approaches, I suggest to also try:
+- https://github.com/Ganapati/RsaCtfTool
+- https://github.com/adeptex/rsatool
+
 ## ToDo
 
 - Cleanup code
